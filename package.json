@@ -1,0 +1,15 @@
+{ "name" : "distance"
+, "description" : "Coffeescript and Javascript string distance calculations."
+, "author" : "Awnist <hi@awnist.com> (http://awnist.com)"
+, "version" : "1.0.0"
+, "main" : "./lib/distance"
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/awnist/distance.git"
+  }
+, "license" :
+  { "type" : "Public Domain"
+  , "url" : "http://unlicense.org/"
+
+  }
+}
