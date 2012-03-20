@@ -8,8 +8,8 @@ Distance is a Coffeescript and Javascript module for calculating distances betwe
 
 The distance string metrics currently supported are:
 
-# [Levenshtein](http://en.wikipedia.org/wiki/Levenshtein_distance) - For accuracy 
-# [Sift3](http://siderite.blogspot.com/2007/04/super-fast-and-accurate-string-distance.html) - For speed 
+* [Levenshtein](http://en.wikipedia.org/wiki/Levenshtein_distance) - For accuracy 
+* [Sift3](http://siderite.blogspot.com/2007/04/super-fast-and-accurate-string-distance.html) - For speed 
 
 To our knowledge, the implementations are the fastest variations available. 
 
