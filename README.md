@@ -2,9 +2,9 @@
 
 Distance is a Coffeescript and Javascript module for calculating distances between strings.
 
-    var distance = require "distance"
-    console.log(distance.sift3("banana", "fanana"))
-    console.log(distance.levenshtein("banana", "fanana"))
+    var distance = require "distance";
+    console.log(distance.sift3("banana", "fanana"));
+    console.log(distance.levenshtein("banana", "fanana"));
 
 The distance string metrics currently supported are:
 
