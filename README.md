@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/awnist/distance.png)](http://travis-ci.org/awnist/distance)
 ## What's Distance?
 
 Distance is a Coffeescript and Javascript module for calculating distances between strings.
